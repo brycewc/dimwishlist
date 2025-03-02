@@ -1,0 +1,7 @@
+title:Bryce's Wishlist
+
+// Watchful Eye (pve,god-pve)
+//notes: tags:pve,god-pve
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,3966416502,878237828
+
+
