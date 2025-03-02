@@ -1,7 +1,7 @@
 title:Bryce's Wishlist
 
-// Watchful Eye (pve,god-pve)
-//notes: tags:pve,god-pve
-dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,3966416502,878237828
+// Qua Furor V (pve)
+//notes: tags:pve
+dimwishlist:item=751880654&perks=1482024992,1885400500,2779035018,2848615171
 
 
