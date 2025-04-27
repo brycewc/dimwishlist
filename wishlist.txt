@@ -4,4 +4,6 @@ title:Bryce's Wishlist
 //notes: tags:pve
 dimwishlist:item=751880654&perks=1482024992,1885400500,2779035018,2848615171
 
-
+//Unsworn (pve)
+//notes: tags:pve
+dimwishlist:item=1303313141&perks=202670084,3868766766,3700496672,4198902903
